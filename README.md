@@ -6,8 +6,6 @@
 
 `cd ./diver-license-cfd-software-engineer`
 
-`pip install -r requirements.txt`
-
 `pip install ./post_module`
 
 `python ./main.py`
